@@ -7,7 +7,7 @@
 - [Setup](#setup)
 
 ## General info
-Welcome to the Reddit Clone App!
+Welcome to the ASP.NET Core web application.
 This is one of the BCIT's C# labs
 
 ## Technologies

@@ -26,15 +26,13 @@ To use Entity Framework in your C# application, you will need to install the Ent
 In the terminal, navigate to your project directory and run the following command:
 
 ```
-$ git clone https://github.com/GyoOh/Jeddit.git
-$ cd Jeddit
-$ npm install
-$ npm start
-$ npm run dev
+$ git clone https://github.com/GyoOh/comp3514-csharp-intro
+$ cd Csharp-lab1
+$ dotnet run
 ```
 
 ## How to start
 
 Copy code
-npm start
-The app will now be running at http://localhost:8000.
+dotnet run
+The app will now be running.
